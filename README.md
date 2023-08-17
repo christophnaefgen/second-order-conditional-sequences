@@ -11,4 +11,6 @@ These are useful for certain types of sequence learning experiments, as you cann
 
 With all these criteria its a mere 11 sequences. Sadly I did not write the code to find them in a manner that is easily extensible, but maybe some day I will rewrite it and spam variants.
 
-[[2,1,4,3,2,3,4,1],[2,1,4,3,2,4,1,3],[2,3,4,1,2,4,1,3],[2,4,1,3,2,3,4,1],[2,4,1,3,2,4,1,3],[3,1,4,2,3,1,4,2],[3,1,4,2,3,4,2,1],[3,4,1,2,3,1,4,2],[3,4,2,1,3,1,4,2],[3,4,2,1,3,4,2,1],[4,3,1,2,4,3,1,2]] 
+Edited: Manual correction, automated generation is not yet updated. Somehow, 24132413, 31423142, 34213421, and 43124312 were not filtered out. For now I would call this list suspect of not being complete and I will update it when I get to it. :)
+
+[[2,1,4,3,2,3,4,1],[2,1,4,3,2,4,1,3],[2,3,4,1,2,4,1,3],[2,4,1,3,2,3,4,1],[3,1,4,2,3,4,2,1],[3,4,1,2,3,1,4,2],[3,4,2,1,3,1,4,2]] 
